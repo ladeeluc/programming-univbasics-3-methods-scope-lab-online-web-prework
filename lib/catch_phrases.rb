@@ -7,7 +7,7 @@ def toadstool
   puts status_princess = "Thank You Mario! But Our Princess Is In Another Castle!"
 end
 
-def link 
+def link
   puts out_link = "It's Dangerous To Go Alone! Take This."
 end
 
